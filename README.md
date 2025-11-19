@@ -14,7 +14,7 @@ I enjoy working with data, spotting patterns that others miss and transforming t
 ---
 
 ## Connect With Me 🌐
-- [LinkedIn](www.linkedin.com/in/adheeshg)  
+- [LinkedIn](https://www.linkedin.com/in/adheeshg)
 - Email: adheesh20.ghotikar@gmail.com 
 
 ---
