@@ -1,6 +1,6 @@
 <br>
 
-<h1 align="center">Hello, I'm Adheesh! 😄</h1>
+<h1 align="center">Hello, I'm Ad! 😄</h1>
 
 <h3 align="center">Letting the data speak for itself</h3>
 
